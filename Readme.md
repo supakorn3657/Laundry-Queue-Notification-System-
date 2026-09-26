@@ -16,12 +16,7 @@
 1. กฤตเมธ สุวรรณตันหยง (6821600899) — ออกแบบ Figma ป็อปอัพ
 2. ณัฐดนัย แซ่ลิ้ม (6821601003) — หน้าจอปุ่มจอง / เลือกชั่วโมง / GUI หน้าจอ Dashboard
 3. นายปริวัฒน์ สุขวิจิตต์ (6821601178) — ไฟล์ .csv, FileLogService, GitHub
-4. นายศุภกร รุ่งสุวรรณสกุล (6821601488) — Machine
-WashingMachine
-Booking
-BookingManager
-MachineController
-TimerThread
+4. นายศุภกร รุ่งสุวรรณสกุล (6821601488) — Machine,WashingMachine,Booking,BookingManager,MachineController,TimerThread
 
 ---
 
