@@ -1,6 +1,0 @@
-bin/
-*.class
-bookings.csv
-laundry_log.txt
-queue_log.txt
-.vscode/
